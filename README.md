@@ -1,4 +1,4 @@
-# FirstApp-ReactJS
+# Hello React JS
 
 Simple App extends React Component with render()
 
